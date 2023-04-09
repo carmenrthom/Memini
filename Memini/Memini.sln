@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memini", "Memini\Memini.csproj", "{03F95D30-DE62-4F3C-B487-9947087CEE9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F95D30-DE62-4F3C-B487-9947087CEE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F95D30-DE62-4F3C-B487-9947087CEE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F95D30-DE62-4F3C-B487-9947087CEE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F95D30-DE62-4F3C-B487-9947087CEE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC15A31-3B58-4A84-A5C4-3DFFA8DC2F89}
+	EndGlobalSection
+EndGlobal
